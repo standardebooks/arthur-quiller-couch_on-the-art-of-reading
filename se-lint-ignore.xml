@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-1.xhtml">
+		<ignore>
+			<code>s-005</code>
+			<reason>Nested blockquote is correct.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-6.xhtml">
+		<ignore>
+			<code>t-031</code>
+			<reason>ABC is a mathematical equation, not the alphabet.</reason>
+		</ignore>
+		<ignore>
+			<code>t-036</code>
+			<reason>Number is a page number, not a year.</reason>
+		</ignore>
+		<ignore>
+			<code>t-066</code>
+			<reason>Number is not a regnal ordinal.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
