@@ -20,6 +20,10 @@ footer{
 	text-indent: 0;
 }
 
+section > header{
+	margin-top: 3em;
+}
+
 /* Centered dedications */
 section[epub|type~="dedication"]{
 	font-variant: small-caps;
