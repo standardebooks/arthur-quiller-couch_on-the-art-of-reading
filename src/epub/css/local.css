@@ -116,6 +116,11 @@ blockquote[xml|lang]{
 	font-style: italic;
 }
 
+/* Don't italicize Middle English like Chaucer */
+blockquote[xml|lang="enm"]{
+	font-style: normal;
+}
+
 #chapter-4 ul{
 	list-style: none;
 }
