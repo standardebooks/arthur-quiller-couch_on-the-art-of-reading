@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/arthur-quiller-couch/on-the-art-of-reading</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-01-31T16:04:18Z</dc:date>
+		<meta property="dcterms:modified">2024-01-31T16:04:18Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -35,15 +35,18 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008117485</meta>
 		<meta property="se:subject">Nonfiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Quiller-Couch argues for the study and appreciation of classic English literature.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;On the Art of Reading&lt;/i&gt; is a collection of lectures delivered by &lt;a href="https://standardebooks.org/ebooks/arthur-quiller-couch"&gt;Arthur Quiller-Couch&lt;/a&gt;, a literary critic and professor at Cambridge, between 1916 and 1918.&lt;/p&gt;
+			&lt;p&gt;In these lectures, Quiller-Couch argues for the study of the masterpieces of English literature—Shakespeare, Milton, and so on. He opines that the most effective way of appreciating literature is to experience it as “What Is,” which is to say feeling as if one has become part of the story. Much of the lectures is devoted to studying ways in which teachers can engender that feeling in pupils—with Quiller-Couch going so far as to say that even small children can be taught to appreciate seemingly-complex literature like &lt;i&gt;The Tempest&lt;/i&gt; or classical poetry like Homer.&lt;/p&gt;
+			&lt;p&gt;Quiller-Couch also spends time discussing his then-controversial opinion that the English translation of the Bible, as well as many Greek classics, are masterpieces of English literature that deserve careful study not just for their religions or philosophical importance, but for their beautiful prose style.&lt;/p&gt;
+			&lt;p&gt;These lectures form a companion to his earlier collection of lectures, &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/arthur-quiller-couch/on-the-art-of-writing"&gt;On the Art of Writing&lt;/a&gt;&lt;/i&gt;, which explore similar themes of the place of writing and literature in the intellectual firmament.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/16579</dc:source>
 		<dc:source>https://www.google.com/books/edition/On_the_Art_of_Reading/J1Fh6cS35GcC</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">62287</meta>
+		<meta property="se:reading-ease.flesch">59.98</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/arthur-quiller-couch_on-the-art-of-reading</meta>
 		<dc:creator id="author">Arthur Quiller-Couch</dc:creator>
 		<meta property="file-as" refines="#author">Quiller-Couch, Arthur</meta>
