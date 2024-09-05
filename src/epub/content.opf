@@ -45,7 +45,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/16579</dc:source>
 		<dc:source>https://www.google.com/books/edition/On_the_Art_of_Reading/J1Fh6cS35GcC</dc:source>
-		<meta property="se:word-count">62286</meta>
+		<meta property="se:word-count">62288</meta>
 		<meta property="se:reading-ease.flesch">60.69</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/arthur-quiller-couch_on-the-art-of-reading</meta>
 		<dc:creator id="author">Arthur Quiller-Couch</dc:creator>
