@@ -2,12 +2,18 @@
 <se-lint-ignore>
 	<file path="chapter-6.xhtml">
 		<ignore code="t-031">
+			<line>103</line>
+			<line>105</line>
+			<line>106</line>
 			<reason>ABC is a mathematical equation, not the alphabet.</reason>
 		</ignore>
 		<ignore code="t-036">
+			<line>187</line>
 			<reason>Number is a page number, not a year.</reason>
 		</ignore>
 		<ignore code="t-066">
+			<line>157</line>
+			<line>161</line>
 			<reason>Number is not a regnal ordinal.</reason>
 		</ignore>
 	</file>
