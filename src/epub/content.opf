@@ -37,7 +37,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008117485</meta>
 		<meta property="schema:genre">Nonfiction</meta>
-		<dc:abstract>Quiller-Couch argues for the study and appreciation of classic English literature.</dc:abstract>
+		<meta property="schema:abstract">Quiller-Couch argues for the study and appreciation of classic English literature.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;On the Art of Reading&lt;/i&gt; is a collection of lectures delivered by &lt;a href="https://standardebooks.org/ebooks/arthur-quiller-couch"&gt;Arthur Quiller-Couch&lt;/a&gt;, a literary critic and professor at Cambridge, between 1916 and 1918.&lt;/p&gt;
 			&lt;p&gt;In these lectures, Quiller-Couch argues for the study of the masterpieces of English literature—Shakespeare, Milton, and so on. He opines that the most effective way of appreciating literature is to experience it as “What Is,” which is to say feeling as if one has become part of the story. Much of the lectures is devoted to studying ways in which teachers can engender that feeling in pupils—with Quiller-Couch going so far as to say that even small children can be taught to appreciate seemingly complex literature like &lt;i&gt;The Tempest&lt;/i&gt; or classical poetry like Homer.&lt;/p&gt;
