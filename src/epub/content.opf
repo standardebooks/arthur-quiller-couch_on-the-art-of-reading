@@ -30,8 +30,8 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">On the Art of Reading</dc:title>
 		<meta property="file-as" refines="#title">On the Art of Reading</meta>
-		<dc:subject id="subject-1">English literature -- History and criticism</dc:subject>
-		<dc:subject id="subject-2">Books and reading -- Great Britain</dc:subject>
+		<dc:subject id="subject-1">English literature--History and criticism</dc:subject>
+		<dc:subject id="subject-2">Books and reading--Great Britain</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85043833</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
